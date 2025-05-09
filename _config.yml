@@ -1,0 +1,5 @@
+# _config.yml
+title: "Predicting Stroke Risk"
+description: "Ankit Nakhawa and Ayush Mishra"
+# Use the GitHub-supported “Minimal” theme
+theme: jekyll-theme-minimal
